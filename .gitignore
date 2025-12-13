@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.ipynb_checkpoints
+lab_1/cocotext-v20
+lab_1/ilovepdf_pages-to-jpg
+lab_1/processed_dataset
+lab_1/error-1.png
+lab_1/error-2.png
+lab_1/error-3.png
+lab_1/lab1.pdf
